@@ -23,6 +23,7 @@ Este repositório contém os exercícios e exemplos desenvolvidos durante o **Cu
 - **Node.js**
 - **Visual Studio Code**
 - **Git & GitHub**
+- **Chrome DevTools**
 
 ---
 

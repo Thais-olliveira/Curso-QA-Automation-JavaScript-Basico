@@ -4,7 +4,7 @@
  * borrar el restante, para diminuir o tamanho do link.
  *  *  */ 
 
-//Elementos del Formulario de registro
+//Elementos del Formulario de registro - Site W3School
 
 var txtEmail = document.querySelector("form > div.SignUpForm_signup_inputs__9QGV9 > input:nth-child(1)");
 var txtPassword = document.querySelector("form > div.SignUpForm_signup_inputs__9QGV9 > input:nth-child(2)");

@@ -2,6 +2,9 @@
 
 Este repositório contém os exercícios e exemplos desenvolvidos durante o **Curso Básico de QA**, com foco em **Fundamentos de testes** e **Automação utilizando JavaScript**, realizado como parte do meu aprendizado inicial na área de Quality Assurance.
 
+📺 **Curso utilizado:**  
+👉 https://www.youtube.com/watch?v=nVdDbmRGDDc&list=PLSYRch2IsRx3MnylVdfnZLzA9rGO-D1_n
+
 ---
 
 ## 🎯 Objetivo do Projeto
